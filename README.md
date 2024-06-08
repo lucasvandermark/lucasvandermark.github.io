@@ -29,7 +29,7 @@ This page is a collection of the projects and labs I completed through the Unive
 - This project was not completed, but is being included for a complete record of the course assignments
 - [Code](https://github.com/lucasvandermark/cit281-p6)
 
-#  
+--- 
 
 ### Lab 1:
 - Installed all software necessary for the course, practiced using said software, practiced keyboard shortcuts, and created my first Node.js server-side JS file
