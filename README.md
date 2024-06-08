@@ -1,4 +1,4 @@
----
+
 # Welcome to my CIT Minor Portfolio!
 ---
 ![coding image](https://media.istockphoto.com/id/1411610324/photo/python-programming-language-computer-source-code-text-example-close-up-on-a-blue-surface.jpg?s=2048x2048&w=is&k=20&c=heMmE3B6-evrgw9oj4RR7l4sYPppTvSCjw7huuuMzfM=)
